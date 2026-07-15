@@ -1,20 +1,21 @@
-# 🔢 Mini Tabuada
+# 📦 Gerenciador de Produtos
 
 ## Sobre
 
 Projeto desenvolvido durante o curso de Backend Java no SENAI.
 
-O objetivo deste exercício foi praticar estruturas de repetição e arrays, criando uma tabuada simples e interativa.
+Neste exercício foi criado um pequeno sistema para cadastro e exibição de produtos utilizando arrays paralelos.
 
 ---
 
 ## Conceitos utilizados
 
 - Scanner
-- Variáveis
 - Arrays
-- Estrutura de repetição (for)
-- Operadores matemáticos
+- Arrays paralelos
+- Estruturas de repetição
+- Variáveis
+- Entrada e saída de dados
 
 ---
 
@@ -22,9 +23,10 @@ O objetivo deste exercício foi praticar estruturas de repetição e arrays, cri
 
 O programa permite:
 
-- Escolher um número
-- Exibir sua tabuada
-- Percorrer arrays utilizando laços de repetição
+- Cadastrar produtos
+- Informar preços
+- Armazenar dados em arrays
+- Exibir todos os produtos cadastrados
 
 ---
 
@@ -32,19 +34,20 @@ O programa permite:
 
 Durante este projeto pratiquei:
 
-- Utilização de arrays
-- Estruturas de repetição
-- Organização da lógica
-- Exibição de resultados formatados
+- Manipulação de arrays
+- Organização de dados relacionados
+- Uso de índices
+- Repetições utilizando for
 
 ---
 
 ## Melhorias futuras
 
-- Escolher o intervalo da tabuada
-- Permitir várias tabuadas
-- Criar menu interativo
-- Utilizar métodos
+- Permitir alterar produtos
+- Excluir produtos
+- Utilizar ArrayList
+- Criar menu completo
+- Salvar dados em arquivo
 
 ---
 
