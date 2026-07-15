@@ -190,4 +190,4 @@ Erros, melhorias e refatorações fazem parte do processo e mostram minha evolu�
 
 ---
 
-Desenvolvido por **Edson Souza Leite**
+Desenvolvido por **Edson Souza Leite.**
